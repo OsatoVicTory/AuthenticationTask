@@ -32,7 +32,7 @@ exports.loginUser = async (req, res) => {
         })
 
         res.status(200).json({ 
-            message: "User Registered Successfully",
+            message: "User Logged In Successfully",
             token
         })
     } catch (err) {
