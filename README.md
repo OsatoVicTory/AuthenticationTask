@@ -26,35 +26,35 @@ Screenshot Details
 
 6. Using Admin route 
 
-7. Testing user route as an admin, of which we get the access denial and json message, "Not a User".
 
-8. Registration as staff
 
-9. Log in as staff and generation of token
+7. Registration as staff
 
-10. Using staff route
+8. Log in as staff and generation of token
 
-11. Registration as user
+9. Using staff route
 
-12. Log in as user and generation of token
+10. Registration as user
 
-13. Using user route
+11. Log in as user and generation of token
 
-14. Testing staff route as a user and got the json message "Not an Admin".
+12. Using user route
 
-15. Testing admin route as a user and got the json message "Not a Manager".
+13. Testing staff route as a user and got the json message "Not an Admin".
 
-16. Testing manager route as a user and got the json message "Not a Staff".
+14. Testing admin route as a user and got the json message "Not a Manager".
 
-17. Password recovery route
+15. Testing manager route as a user and got the json message "Not a Staff".
 
-18. Testing former password and got Incorrect password message.
+16. Password recovery route
 
-19. Log in with new password and generation of token for new password 
+17. Testing former password and got Incorrect password message.
 
-20. Testing user router with new password
+18. Log in with new password and generation of token for new password 
 
-21. Logging out
+19. Testing user router with new password
+
+20. Logging out
 
 ![Sceenshot (2)](https://user-images.githubusercontent.com/76063134/182838329-56ea01b9-683b-4545-a2ca-b0ca0450a6e1.png)
 
@@ -69,7 +69,7 @@ Screenshot Details
 ![Screenshot (7)](https://user-images.githubusercontent.com/76063134/182841526-b529fdf4-4d96-405b-b09f-62bf2c612f46.png)
 
 
-![Screenshot (8)](https://user-images.githubusercontent.com/76063134/182841647-7d8c0bd9-80df-4bbb-828c-aafc8ff221b3.png)
+
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/76063134/182841781-d81b1e8a-f5fa-4bf9-8e27-1bf9727dd672.png)
 
