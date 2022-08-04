@@ -40,11 +40,11 @@ Screenshot Details
 
 13. Using user route
 
-14. Testing staff route as a user and got the json message "Not a staff".
+14. Testing staff route as a user and got the json message "Not an Admin".
 
-15. Testing admin route as a user and got the json message "Not an admin".
+15. Testing admin route as a user and got the json message "Not a Manager".
 
-16. Testing manager route as a user and got the json message "Not an admin".
+16. Testing manager route as a user and got the json message "Not a Staff".
 
 17. Password recovery route
 
@@ -93,7 +93,8 @@ Screenshot Details
 ![Screenshot (36)](https://user-images.githubusercontent.com/76063134/182842516-70abdf39-bd78-41ce-8605-97b502157913.png)
 
 
-![Screenshot (31)](https://user-images.githubusercontent.com/76063134/182842287-be2df7af-a6ef-43c2-b4d3-361ec7a43541.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/76063134/182844525-482aad27-0273-4455-8d52-331389a52d29.png)
+
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/76063134/182842607-10e65a0b-c9b5-4e74-b5cc-caa6a70bd7fc.png)
 
