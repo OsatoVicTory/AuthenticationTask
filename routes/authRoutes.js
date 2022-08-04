@@ -4,6 +4,7 @@ const router = express.Router();
 const { loginUser } = require("../controller/loginController");
 const { signupUser } = require("../controller/signupController");
 const { authUser } = require("../controller/authController");
+const { logout } = require("../controller/logout");
 const { 
     checkUser,
     checkStaff,
@@ -20,11 +21,14 @@ const {
 
 const { getNewPassword } = require("../controller/newPassword");
 
-//signup User
+//register User
 router.post("/signup", signupUser);
 
 //loginUser
 router.get("/login", loginUser);
+
+//logoutUser
+router.get("/logout", logout);
 
 //PROTECTED ROUTES
 //users routes
