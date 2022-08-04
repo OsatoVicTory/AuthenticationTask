@@ -1,6 +1,6 @@
 exports.checkUser = (req, res, next) => {
     if(req.user.role !== "user") {
-        return res.status(401).json({ message: "Strictly for Regular User" });
+        return res.status(401).json({ message: "This Route is Strictly for Regular User" });
     }
     next();
 }
