@@ -1,5 +1,5 @@
 # AuthenticationTask
-N.B: Registration was used as sign up in my routes
+N.B: Registration was used as sign up in my routes. Also everyone is viewed as User to frontend thats why you will see User logged in, but really in backend and database, they have roles and different access to different routes based on roles
 
 FEATURES :
   - Sign up, password hashing and adding of roles
