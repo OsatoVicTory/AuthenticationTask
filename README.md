@@ -2,15 +2,15 @@
 N.B: Registration was used as sign up in my routes
 
 FEATURES :
--Sign up, password hashing and adding of roles
+  - Sign up, password hashing and adding of roles
 
--Log in, Signing of payload with jwt and generation of token 
+  - Log in, Signing of payload with jwt and generation of token 
 
-- Authed Routes for users only, staffs only, admin only and manager only.
+  - Authed Routes for users only, staffs only, admin only and manager only.
 
--password recovery
+  - password recovery
 
--log out
+  - log out
 
 Screenshot Details
 
